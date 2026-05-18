@@ -17,7 +17,7 @@ Natural gas generators face significant operational risks in electricity markets
 
 ---
 
-## Highlights
+✨ Highlights
 
 | # | Highlight |
 |---|-----------|
