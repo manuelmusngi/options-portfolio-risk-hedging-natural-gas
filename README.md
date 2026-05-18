@@ -34,10 +34,10 @@ Simulation results show the portfolio approach consistently outperforms both the
 
 🏗️ Project Architecture
 
-gas-generator-option-hedging/
-│
+gas-generator-option-hedging/\
+│\
 ├── README.md\
-├── LICENSE
+├── LICENSE\
 ├── requirements.txt\
 ├── setup.py\
 │
