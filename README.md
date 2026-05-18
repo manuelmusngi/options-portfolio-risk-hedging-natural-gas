@@ -150,27 +150,57 @@ Subject to: Σ wᵢ = 1          (weights sum to 1)
 🏗️ Project Architecture in C++
 
 OptionHedgingSystem/\
-├── [CMakeLists.txt](https://github.com/manuelmusngi/options-based-portfolio-risk-hedging-for-natural-gas/blob/main/CMakeLists.txt)\
-├── cmake/\
-│   └── modules/\
+├── CMakeLists.txt\
+├── CMakePresets.json\
 ├── include/\
 │   ├── core/\
+│   │   ├── Engine.hpp\
+│   │   └── StorageController.hpp\
 │   ├── models/\
+│   │   ├── Option.hpp\
+│   │   ├── ShortPut.hpp\
+│   │   ├── LongPut.hpp\
+│   │   ├── ShortCall.hpp\
+│   │   └── Portfolio.hpp\
 │   ├── storage/\
+│   │   ├── StorageBase.hpp\
+│   │   ├── Battery.hpp\
+│   │   └── P2G.hpp\
 │   ├── optimization/\
+│   │   └── MeanVarianceOptimizer.hpp\
 │   ├── simulation/\
+│   │   └── ScenarioRunner.hpp\
 │   └── utils/\
+│       └── Logger.hpp\
 ├── src/\
 │   ├── core/\
+│   │   ├── Engine.cpp\
+│   │   └── StorageController.cpp\
 │   ├── models/\
+│   │   ├── Option.cpp\
+│   │   ├── ShortPut.cpp\
+│   │   ├── LongPut.cpp\
+│   │   ├── ShortCall.cpp\
+│   │   └── Portfolio.cpp\
 │   ├── storage/\
+│   │   ├── StorageBase.cpp\
+│   │   ├── Battery.cpp\
+│   │   └── P2G.cpp\
 │   ├── optimization/\
+│   │   └── MeanVarianceOptimizer.cpp\
 │   ├── simulation/\
+│   │   └── ScenarioRunner.cpp\
 │   └── utils/\
-├── configs/\
-├── data/\
+│       └── Logger.cpp\
 ├── tests/\
-└── examples/\
+│   ├── CMakeLists.txt\
+│   └── test_portfolio.cpp\
+├── data/\
+│   └── sample_spot.csv\
+├── configs/\
+│   └── default.json\
+└── main.cpp
+
 
 📖 Citation
 
