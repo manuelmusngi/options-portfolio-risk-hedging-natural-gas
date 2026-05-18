@@ -35,19 +35,16 @@ Simulation results show the portfolio approach consistently outperforms both the
 🏗️ Project Architecture
 
 gas-generator-option-hedging/\
-│\
 ├── README.md\
 ├── LICENSE\
 ├── requirements.txt\
 ├── setup.py\
-│
 ├── data/\
 │   ├── market_prices.csv\
 │   ├── gas_costs.csv\
 │   └── scenario_params.json\
-│
-├── src/
-│   ├── options/
+├── src/\
+│   ├── options/\
 │   │   ├── [short_put.py](https://github.com/manuelmusngi/options-based-portfolio-risk-hedging-for-natural-gas/blob/main/src/options/short_put.py) # Short put payoff, premium, constraint models\
 │   │   ├── long_put.py          # Long put payoff, transfer mechanism models\
 │   │   └── short_call.py        # Short call payoff and exercise logic\
