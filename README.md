@@ -51,7 +51,7 @@ gas-generator-option-hedging/\
 │   ├── storage/\
 │   │   ├── p2g.py               # Power-to-Gas charging/discharging model\
 │   │   └── battery.py           # Battery SOC dynamics and constraints\
-│   ├── portfolio/
+│   ├── portfolio/\
 │   │   ├── mean_variance.py     # Mean-variance utility: E[r] - 0.5·A·Var[r]\
 │   │   ├── optimiser.py         # QP weight optimisation\
 │   │   └── risk_metrics.py      # CVaR, Sharpe ratio, return distribution\
