@@ -154,8 +154,8 @@ OptionHedgingSystem/\
 ├── [CMakePresets](https://github.com/manuelmusngi/options-based-portfolio-risk-hedging-for-natural-gas/blob/main/CMakePresets)\
 ├── include/\
 │   ├── core/\
-│   │   ├── Engine.hpp\
-│   │   └── StorageController.hpp\
+│   │   ├── [Engine.hpp](https://github.com/manuelmusngi/options-based-portfolio-risk-hedging-for-natural-gas/blob/main/include/core/Engine.hpp)\
+│   │   └── [StorageController.hpp](https://github.com/manuelmusngi/options-based-portfolio-risk-hedging-for-natural-gas/blob/main/include/storage/StorageBase.hpp)\
 │   ├── models/\
 │   │   ├── Option.hpp\
 │   │   ├── ShortPut.hpp\
