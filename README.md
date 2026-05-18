@@ -1,4 +1,4 @@
-#### Option-Based Portfolio Risk Hedging for Natural Gas
+#### Options-Based Portfolio Risk Hedging for Natural Gas
 
 This project is an exercise on a research-grade Options Strategies hedging implementation in Henry Hub Natural Gas portfolio. Two implementations are considered, one Python-based while the other in C++ based structures.
 
