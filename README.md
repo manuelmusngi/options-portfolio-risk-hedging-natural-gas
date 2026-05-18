@@ -149,7 +149,7 @@ Subject to: Σ wᵢ = 1          (weights sum to 1)
 
 ---
 
-## Project Architecture in C++
+🏗️ Project Architecture in C++
 
 ```
 
