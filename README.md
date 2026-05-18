@@ -129,7 +129,7 @@ print(result.weights)
 🧩 Model Overview
 
 ```
-Maximise:   U = E[r_portfolio(T)] − (1/2) · A · Var[r_portfolio(T)]
+Maximize:   U = E[r_portfolio(T)] − (1/2) · A · Var[r_portfolio(T)]
 
 Subject to: Σ wᵢ = 1          (weights sum to 1)
             0 ≤ wᵢ ≤ 1        (no short-selling of instruments)
