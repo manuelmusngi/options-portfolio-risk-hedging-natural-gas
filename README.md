@@ -2,7 +2,7 @@
 
 This project is an exercise in implementing a research-grade Options Strategies in Henry Hub Natural Gas that can be employed in hedging. Two implementations are considered, one Python-based while the other in C++ based structures.
 
-> **Paper:** Lai, S., Qiu, J., & Tao, Y. (2022). Option-based portfolio risk hedging strategy for gas generator based on mean-variance utility model. *Energy Conversion and Economics*, 3(1), 20–30. DOI: [10.1049/enc2.12036](https://doi.org/10.1049/enc2.12036)
+>📄 **Paper:** Lai, S., Qiu, J., & Tao, Y. (2022). Option-based portfolio risk hedging strategy for gas generator based on mean-variance utility model. *Energy Conversion and Economics*, 3(1), 20–30. DOI: [10.1049/enc2.12036](https://doi.org/10.1049/enc2.12036)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/)
@@ -11,7 +11,7 @@ This project is an exercise in implementing a research-grade Options Strategies 
 
 ---
 
-## Abstract
+🌊 Abstract
 
 Natural gas generators face significant operational risks in electricity markets due to price volatility and uncertain demand. This repository implements the **option-based portfolio risk-hedging framework** proposed by Lai et al. (2022), which combines three financial option instruments — **short put**, **long put**, and **short call** — with two energy storage technologies — **Power-to-Gas (P2G)** and **battery** — to maximise the risk-adjusted utility of a gas generator. Optimal portfolio weights are determined via a **mean-variance utility model** (`Max U = E[r] − ½·A·Var[r]`), enabling the generator to tailor its hedging posture to its individual risk-aversion index *A*. Simulation results show the portfolio approach consistently outperforms both the unhedged baseline and any single-option strategy in terms of profit and risk reduction.
 
@@ -30,7 +30,7 @@ Natural gas generators face significant operational risks in electricity markets
 
 ---
 
-## Project Architecture
+🏗️ Project Architecture
 
 ```
 gas-generator-option-hedging/
@@ -81,7 +81,7 @@ gas-generator-option-hedging/
 
 ---
 
-## Installation
+📦 Installation
 
 ```bash
 git clone https://github.com/your-org/gas-generator-option-hedging.git
