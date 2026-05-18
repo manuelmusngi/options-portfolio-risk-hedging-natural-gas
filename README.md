@@ -30,7 +30,7 @@ Natural gas generators face significant operational risks in electricity markets
 
 ---
 
-## Project Structure
+## Project Architecture
 
 ```
 gas-generator-option-hedging/
@@ -148,6 +148,10 @@ Subject to: Σ wᵢ = 1          (weights sum to 1)
 6. **Risk-free rate:** Assumed zero
 
 ---
+
+## Project Architecture in C++
+
+
 
 ## Citation
 
