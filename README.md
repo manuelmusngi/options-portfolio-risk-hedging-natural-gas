@@ -79,17 +79,6 @@ gas-generator-option-hedging/\
 
 ---
 
-☑️ Assumptions
-
-1. **Time resolution:** 30-minute slots (48/day)
-2. **Strike price:** Uniform across options for baseline — extend if paper specifies instrument-level strikes
-3. **Scenario generation:** 1,000 Monte Carlo scenarios unless paper specifies otherwise
-4. **P2G efficiency:** 60%; battery round-trip: 92% — adjust from paper Table 1
-5. **No transaction costs** beyond explicit premiums are modelled
-6. **Risk-free rate:** Assumed zero
-
----
-
 📄 License
 
 MIT — see [LICENSE](LICENSE). Not affiliated with or endorsed by the original authors.
