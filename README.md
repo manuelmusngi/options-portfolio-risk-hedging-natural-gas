@@ -25,7 +25,7 @@ Simulation results show the portfolio approach consistently outperforms both the
 |---|-----------|
 | ✅ | Novel three-option hedging portfolio (short put + long put + short call) tailored for gas generators |
 | ✅ | Dual energy storage integration: P2G and battery act as physical hedging buffers |
-| ✅ | Mean-variance utility optimisation with configurable risk-aversion index *A* |
+| ✅ | Mean-variance utility optimisation with configurable risk-aversion |
 | ✅ | Estimation-invariant design — robust to demand and price forecast errors |
 | ✅ | Outperforms traditional bilateral-contract hedging and single-option strategies |
 | ✅ | Risk-preference sensitivity analysis: risk-averse → long put; risk-tolerant → short call |
