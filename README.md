@@ -9,7 +9,7 @@ This project is an exercise on a research-grade options strategies hedging imple
 
 Natural gas generators face significant operational risks in electricity markets due to price volatility and uncertain demand. This repository implements the **option-based portfolio risk-hedging framework** proposed by Lai et al. (2022), which combines three financial option instruments — **short put**, **long put**, and **short call** — with two energy storage technologies — **Power-to-Gas (P2G)** and **battery** — to maximize the risk-adjusted utility of a gas generator. 
 
-Optimal portfolio weights are determined via a **mean-variance utility model** $$Max U = E[r] − ½·A·Var[r]$$, enabling the generator to tailor its hedging posture to its individual risk-aversion. 
+Optimal portfolio weights are determined via a **mean-variance utility model** Max U = E[r] − ½·A·Var[r], enabling the generator to tailor its hedging posture to its individual risk-aversion. 
 
 Simulation results show the portfolio approach consistently outperforms both the unhedged baseline and any single-option strategy in terms of profit and risk reduction.
 
