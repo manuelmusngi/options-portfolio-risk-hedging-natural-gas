@@ -27,8 +27,33 @@ Simulation results show the portfolio approach consistently outperforms both the
 | ✅ | Risk-preference sensitivity analysis: risk-averse → long put; risk-tolerant → short call |
 
 ---
+🏗️ Project Architecture - C++
 
-🏗️ Project Architecture
+OptionHedgingSystem/\
+├── CMakeLists.txt\
+├── cmake/\
+│   └── modules/\
+├── include/\
+│   ├── core/\
+│   ├── models/\
+│   ├── storage/\
+│   ├── optimization/\
+│   ├── simulation/\
+│   └── utils/\
+├── src/\
+│   ├── core/\
+│   ├── models/\
+│   ├── storage/\
+│   ├── optimization/\
+│   ├── simulation/\
+│   └── utils/\
+├── configs/\
+├── data/\
+├── tests/\
+└── examples/
+
+
+🏗️ Project Architecture - Python 
 
 gas-generator-option-hedging/\
 ├── README.md\
