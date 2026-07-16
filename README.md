@@ -10,7 +10,7 @@ Natural gas generators face significant operational risks in electricity markets
 
 Optimal portfolio weights are determined via a **mean-variance utility model** - $$Max U = E[r] − ½·A·Var[r]$$, enabling the generator to tailor its hedging posture to its individual risk-aversion. 
 
-**Simulation results show the portfolio approach consistently outperforms both the unhedged baseline and any single-option strategy in terms of profit and risk reduction.**
+- **Simulation results show the portfolio approach consistently outperforms both the unhedged baseline and any single-option strategy in terms of profit and risk reduction.**
 
 ---
 
