@@ -2,7 +2,6 @@
 
 This project is an exercise on a research-grade options strategies hedging implementation in Henry Hub Natural Gas (NG) portfolio. 
 
->📄 **Research Paper Reference:** Lai, S., Qiu, J., & Tao, Y. (2022). Options-based portfolio risk hedging strategy for gas generator based on mean-variance utility model. *Energy Conversion and Economics*, 3(1), 20–30. DOI: [10.1049/enc2.12036](https://doi.org/10.1049/enc2.12036)
 ---
 
 🌊 Abstract
@@ -53,7 +52,11 @@ OptionHedgingSystem/\
 └── examples/
 
 ---
+>📄 **Research Paper Reference:** Lai, S., Qiu, J., & Tao, Y. (2022). Options-based portfolio risk hedging strategy for gas generator based on mean-variance utility model. > *Energy Conversion and Economics*, 3(1), 20–30.
+-  DOI: [10.1049/enc2.12036](https://doi.org/10.1049/enc2.12036)
 
+
+---
 📄 License
 
 MIT — see [LICENSE](LICENSE). Not affiliated with or endorsed by the original authors.
