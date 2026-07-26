@@ -5,7 +5,6 @@
 ![RiskAversion](https://img.shields.io/badge/Risk%20Aversion-A%20Configurable-green.svg)
 ![NaturalGas](https://img.shields.io/badge/Natural%20Gas-Henry%20Hub-00838f.svg)
 ![RiskReduction](https://img.shields.io/badge/Risk-Reduced-red.svg)
-![Forecasting](https://img.shields.io/badge/Forecasting-Short%20Term%20Ready-blueviolet.svg)
 ![ScenarioEngine](https://img.shields.io/badge/Scenario%20Engine-Multi--Regime-1a237e.svg)
 
 
