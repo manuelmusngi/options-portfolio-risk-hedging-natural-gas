@@ -40,7 +40,7 @@ OptionHedgingSystem/\
 ├── [CMakePresets.json](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/CMakePresets)\
 ├── include/\
 │   ├── core/\
-│   │   ├── Engine.hpp\
+│   │   ├── [Engine.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/core/Engine.hpp)\
 │   │   └── StorageController.hpp\
 │   ├── models/\
 │   │   ├── Option.hpp\
