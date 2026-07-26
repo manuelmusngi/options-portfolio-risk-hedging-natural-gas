@@ -39,26 +39,56 @@ Optimal portfolio weights are determined via a **mean-variance utility model** -
 
 OptionHedgingSystem/\
 ├── CMakeLists.txt\
-├── cmake/\
-│   └── modules/\
+├── CMakePresets.json\
 ├── include/\
 │   ├── core/\
+│   │   ├── Engine.hpp\
+│   │   └── StorageController.hpp\
 │   ├── models/\
+│   │   ├── Option.hpp\
+│   │   ├── ShortPut.hpp\
+│   │   ├── LongPut.hpp\
+│   │   ├── ShortCall.hpp\
+│   │   └── Portfolio.hpp\
 │   ├── storage/\
+│   │   ├── StorageBase.hpp\
+│   │   ├── Battery.hpp\
+│   │   └── P2G.hpp\
 │   ├── optimization/\
+│   │   └── MeanVarianceOptimizer.hpp\
 │   ├── simulation/\
+│   │   └── ScenarioRunner.hpp\
 │   └── utils/\
+│       └── Logger.hpp\
 ├── src/\
 │   ├── core/\
+│   │   ├── Engine.cpp\
+│   │   └── StorageController.cpp\
 │   ├── models/\
+│   │   ├── Option.cpp\
+│   │   ├── ShortPut.cpp\
+│   │   ├── LongPut.cpp\
+│   │   ├── ShortCall.cpp\
+│   │   └── Portfolio.cpp\
 │   ├── storage/\
+│   │   ├── StorageBase.cpp\
+│   │   ├── Battery.cpp\
+│   │   └── P2G.cpp\
 │   ├── optimization/\
+│   │   └── MeanVarianceOptimizer.cpp\
 │   ├── simulation/\
+│   │   └── ScenarioRunner.cpp\
 │   └── utils/\
-├── configs/\
-├── data/\
+│       └── Logger.cpp\
 ├── tests/\
-└── examples/
+│   ├── CMakeLists.txt\
+│   └── test_portfolio.cpp\
+├── data/\
+│   └── sample_spot.csv\
+├── configs/\
+│   └── default.json\
+└── main.cpp
+
 
 ---
 >📄 **Research Paper Reference:** Lai, S., Qiu, J., & Tao, Y. (2022). Options-based portfolio risk hedging strategy for gas generator based on mean-variance utility model. > *Energy Conversion and Economics*, 3(1), 20–30.
