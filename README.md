@@ -37,7 +37,7 @@ Optimal portfolio weights are determined via a **mean-variance utility model** -
 
 OptionHedgingSystem/\
 ├── [CMakeLists.txt](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/CMakeLists.txt)\
-├── CMakePresets.json\
+├── [CMakePresets.json](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/CMakePresets)\
 ├── include/\
 │   ├── core/\
 │   │   ├── Engine.hpp\
