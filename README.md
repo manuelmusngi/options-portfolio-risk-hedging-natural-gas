@@ -1,5 +1,10 @@
 #### Options-Based Portfolio Risk Hedging for Natural Gas
 
+![OptionsPortfolio](https://img.shields.io/badge/Options%20Portfolio-SP%2C%20LP%2C%20SC-blue.svg)
+![MeanVariance](https://img.shields.io/badge/Utility-Mean--Variance-brightgreen.svg)
+![RiskAversion](https://img.shields.io/badge/Risk%20Aversion-A%20Configurable-green.svg)
+
+
 This project is an exercise on a research-grade options strategies hedging implementation in Henry Hub Natural Gas (NG) portfolio. 
 
 ---
