@@ -43,7 +43,6 @@ OptionHedgingSystem/\
 │   └── modules/\
 ├── include/\
 │   ├── core/\
-|      [Engine.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/core/Engine.hpp)\
 │   ├── models/\
 │   ├── storage/\
 │   ├── optimization/\
