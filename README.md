@@ -64,7 +64,7 @@ OptionHedgingSystem/\
 │       └── Logger.hpp\
 ├── src/\
 │   ├── core/\
-│   │   ├── Engine.cpp\
+│   │   ├── [Engine.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/core/Engine.cpp)\
 │   │   └── StorageController.cpp\
 │   ├── models/\
 │   │   ├── Option.cpp\
