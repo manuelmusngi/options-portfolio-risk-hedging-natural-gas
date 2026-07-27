@@ -57,7 +57,7 @@ OptionHedgingSystem/\
 │   │   ├── [Battery.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/storage/Battery.hpp)\
 │   │   └── [P2G.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/storage/P2G.hpp)\
 │   ├── optimization/\
-│   │   └── MeanVarianceOptimizer.hpp\
+│   │   └── [MeanVarianceOptimizer.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/optimization/MeanVarianceOptimizer.hpp)\
 │   ├── simulation/\
 │   │   └── ScenarioRunner.hpp\
 │   └── utils/\
