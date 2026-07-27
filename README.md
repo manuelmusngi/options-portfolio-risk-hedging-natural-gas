@@ -53,7 +53,7 @@ OptionHedgingSystem/\
 │   │   ├── [ShortCall.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/models/ShortCall.hpp)\
 │   │   └── [Portfolio.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/models/Portfolio.hpp)\
 │   ├── storage/\
-│   │   ├── StorageBase.hpp\
+│   │   ├── [StorageBase.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/storage/StorageBase.hpp)\
 │   │   ├── Battery.hpp\
 │   │   └── P2G.hpp\
 │   ├── optimization/\
