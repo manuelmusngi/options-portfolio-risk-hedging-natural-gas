@@ -75,7 +75,7 @@ OptionHedgingSystem/\
 │   ├── storage/\
 │   │   ├── [StorageBase.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/storage/StorageBase.cpp)\
 │   │   ├── [Battery.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/storage/Battery.cpp)\
-│   │   └── P2G.cpp\
+│   │   └── [P2G.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/storage/P2G.cpp)\
 │   ├── optimization/\
 │   │   └── MeanVarianceOptimizer.cpp\
 │   ├── simulation/\
