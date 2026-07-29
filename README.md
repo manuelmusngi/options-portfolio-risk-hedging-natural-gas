@@ -68,7 +68,7 @@ OptionHedgingSystem/\
 │   │   └── [StorageController.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/core/StorageController.cpp)\
 │   ├── models/\
 │   │   ├── [Option.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/models/Option.cpp)\
-│   │   ├── ShortPut.cpp\
+│   │   ├── [ShortPut.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/models/ShortPut.cpp)\
 │   │   ├── LongPut.cpp\
 │   │   ├── ShortCall.cpp\
 │   │   └── Portfolio.cpp\
