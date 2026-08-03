@@ -59,7 +59,7 @@ OptionHedgingSystem/\
 │   ├── optimization/\
 │   │   └── [MeanVarianceOptimizer.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/optimization/MeanVarianceOptimizer.hpp)\
 │   ├── simulation/\
-│   │   └── ScenarioRunner.hpp\
+│   │   └── [ScenarioRunner.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/simulation/ScenarioRunner.hpp)\
 │   └── utils/\
 │       └── Logger.hpp\
 ├── src/\
