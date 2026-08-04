@@ -84,7 +84,7 @@ OptionHedgingSystem/\
 │       └── [Logger.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/utils/Logger.cpp)\
 ├── tests/\
 │   ├── [CMakeLists.txt](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/tests/CMakeLists.txt)\
-│   └── test_portfolio.cpp\
+│   └── [test_portfolio.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/tests/test_portfolio.cpp)\
 ├── data/\
 │   └── sample_spot.csv\
 ├── configs/\
