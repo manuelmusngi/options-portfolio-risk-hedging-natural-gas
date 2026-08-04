@@ -89,7 +89,7 @@ OptionHedgingSystem/\
 │   └── sample_spot.csv\
 ├── configs/\
 │   └── default.json\
-└── main.cpp
+└── [main.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/main.cpp)
 
 
 ---
