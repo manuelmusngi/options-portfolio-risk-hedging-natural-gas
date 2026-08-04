@@ -61,7 +61,7 @@ OptionHedgingSystem/\
 │   ├── simulation/\
 │   │   └── [ScenarioRunner.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/simulation/ScenarioRunner.hpp)\
 │   └── utils/\
-│       └── Logger.hpp\
+│       └── [Logger.hpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/include/utils/Logger.hpp)\
 ├── src/\
 │   ├── core/\
 │   │   ├── [Engine.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/core/Engine.cpp)\
@@ -81,7 +81,7 @@ OptionHedgingSystem/\
 │   ├── simulation/\
 │   │   └── [ScenarioRunner.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/simulation/ScenarioRunner.cpp)\
 │   └── utils/\
-│       └── Logger.cpp\
+│       └── [Logger.cpp](https://github.com/manuelmusngi/options-portfolio-risk-hedging-natural-gas/blob/main/src/utils/Logger.cpp)\
 ├── tests/\
 │   ├── CMakeLists.txt\
 │   └── test_portfolio.cpp\
